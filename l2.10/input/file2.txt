@@ -1,0 +1,7 @@
+apple 30    red
+banana 10    yellow
+cherry    20    red
+date    5    brown
+elder    100    black
+fig    50    purple
+grape    20    green
